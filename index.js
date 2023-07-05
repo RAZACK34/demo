@@ -1,2 +1,2 @@
-// I just clear the old stuff
-// Time new stuff
+let container = "<h2>Hello, world!</h2>";
+console.log(container);
