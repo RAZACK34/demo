@@ -1,3 +1,2 @@
-let container = "Docker";
-const AUTHOR = "Yussif";
-let hour = new Date();
+// I just clear the old stuff
+// Time new stuff
